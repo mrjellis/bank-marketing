@@ -1,0 +1,18 @@
+Step 1. Data is loaded into a postgre sql data base
+
+Step 2. Using the connect.py, the data is loaded in 
+
+Step 3. Go to the Bank-Marketing-Project-EDA jupyter notebook for the EDA on the data
+
+Step 4. data-transformed.py takes the raw data and converts it into machine
+learning readable format and return "Tranformed Data.csv"
+
+Step 5. Run the classification models in the classification models.py file. 
+
+
+*Note loading the data into a sql database is not necessary
+this was done for my own benefit to learn how to create a sql database/table to query for data. 
+
+
+
+
