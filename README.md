@@ -29,7 +29,7 @@ Alternatively, source data can be found in the `/Data`folder
 # How to Run this Project
 
 1. The data are contained in csv format `/Data/bank-full.csv` 
-  a) I loaded it into a postgre database for practice, feel free to just use the data from the file. 
+*    I loaded it into a postgre database for practice, feel free to just use the data from the file. 
 2. Run `/scripts/connect.py` this will run the data load. 
 3. Open the Jupyter Notebook file `/Notebooks/Bank-Marketing-Project-EDA` to view the analysis performed on the data before the classification models were run. 
 4. Run `/scripts/data-transformation.py` to clean the data into usable format. 
